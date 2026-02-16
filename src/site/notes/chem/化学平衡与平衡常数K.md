@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chem/k/"}
+{"dg-publish":true,"permalink":"/chem/化学平衡与平衡常数K/","dgPassFrontmatter":true,"created":"2025-08-18T09:08:45.680+08:00","updated":"2026-02-16T10:26:53.037+08:00"}
 ---
 
 化学平衡与K是评价化学反应限度的工具。
